@@ -4,3 +4,6 @@
 ```java
 public static int main(String args[])
 ```
+
+- [x] Thing I've done
+- [ ] Thing I need to do
